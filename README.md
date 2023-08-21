@@ -3,7 +3,7 @@
 
 GeoGlide is a web application built with Node.js, Express, and the OpenStreetMap API. It provides users with the ability to explore a world map, search for specific places, and view location-related information.
 
-![GeoGlide Screenshot](screenshot.png)
+![GeoGlide Screenshot](https://github.com/Madhumitamoi/GeoGlide/blob/master/Screenshot%20(110).png)
 
 ## Features
 
